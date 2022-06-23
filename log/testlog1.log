@@ -1,0 +1,21 @@
+2022-06-23 12:14:23,847 [main] INFO eBanking - User name provided
+2022-06-23 12:14:23,956 [main] INFO eBanking - Password provided
+2022-06-23 12:27:58,112 [main] INFO eBanking - User name provided
+2022-06-23 12:27:58,237 [main] INFO eBanking - Password provided
+2022-06-23 12:33:30,128 [main] INFO eBanking - User name provided
+2022-06-23 12:33:30,232 [main] INFO eBanking - Password provided
+2022-06-23 12:35:47,352 [main] INFO eBanking - User Name Provided
+2022-06-23 12:35:47,522 [main] INFO eBanking - Password Provided
+2022-06-23 12:35:51,229 [main] INFO eBanking - Logged in successfully
+2022-06-23 12:35:51,351 [main] INFO eBanking - Providing Customer Details...
+2022-06-23 17:19:18,821 [main] INFO eBanking - URL is opened
+2022-06-23 17:19:19,027 [main] INFO eBanking - User name is entered
+2022-06-23 17:19:19,368 [main] INFO eBanking - Password is entered
+2022-06-23 17:19:23,569 [main] INFO eBanking - Clicked on submit button
+2022-06-23 17:19:23,587 [main] INFO eBanking - Login test passed
+2022-06-23 23:42:17,238 [main] INFO eBanking - User name provided
+2022-06-23 23:42:17,348 [main] INFO eBanking - Password provided
+2022-06-23 23:43:31,068 [main] INFO eBanking - User Name Provided
+2022-06-23 23:43:31,176 [main] INFO eBanking - Password Provided
+2022-06-23 23:43:33,858 [main] INFO eBanking - Logged in successfully
+2022-06-23 23:43:33,958 [main] INFO eBanking - Providing Customer Details...
